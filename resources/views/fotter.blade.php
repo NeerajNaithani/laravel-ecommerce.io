@@ -6,7 +6,7 @@
                  <div class="footer-col">
                      <h4>Sitesoch</h4>
                      <ul>
-                         <li><a href="#">Home</a></li>
+                         <li><a href="#">Home21s</a></li>
                          <li><a href="#">About</a></li>
                          <li><a href="#">Pricing</a></li>
                          <li><a href="#">Privacy Policy</a></li>
